@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\natha\OneDrive\Área de Trabalho\conta_bancaria\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3503340158.index
+1167041775.index
